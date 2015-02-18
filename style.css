@@ -1,0 +1,13 @@
+
+#thetable td{
+text-align: center;
+padding :6px;
+}
+
+#thetable td{
+border: solid black 1px;
+}
+
+#thetable td img{
+border: black;
+}
